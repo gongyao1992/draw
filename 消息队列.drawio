@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-19T06:11:14.788Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yuCXVzTx693w_OVUB02F" version="14.1.8" type="github">
+<mxfile modified="2021-01-19T08:44:25.965Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="94m-lCtCU1rxdlEo5zr7" version="14.1.8" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="702" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JXGQIEeBwlXOJSszSIdp-2" value="队列服务&lt;br&gt;mq服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JXGQIEeBwlXOJSszSIdp-2" value="队列服务&lt;br&gt;mq服务（生产者告知什么时候干什么）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JXGQIEeBwlXOJSszSIdp-3" value="消费者1&lt;br&gt;（信息接受者）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -47,7 +47,7 @@
           <mxGeometry x="580" y="275" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q1dly6w1q6u7ZvZ1GpFz-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="280" width="249.5" height="153" as="geometry" />
+          <mxGeometry x="110" y="400" width="249.5" height="153" as="geometry" />
         </mxCell>
         <mxCell id="q1dly6w1q6u7ZvZ1GpFz-2" value="生产者" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="q1dly6w1q6u7ZvZ1GpFz-11">
           <mxGeometry y="100" width="90" height="50" as="geometry" />
