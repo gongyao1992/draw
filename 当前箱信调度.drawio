@@ -1,9 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T09:25:19.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="RQlLTQ4FrC7B-NfSxa8T" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T09:44:16.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yYSpkGlE_kIc-QL7AAUv" version="14.1.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="576" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d0uEoVW-U5WtOEtZE68D-1613" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="864.66" as="sourcePoint" />
+            <mxPoint x="583.0651434536638" y="864.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0uEoVW-U5WtOEtZE68D-1614" value="司机单个箱子扣分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d0uEoVW-U5WtOEtZE68D-1613">
+          <mxGeometry x="0.8357" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="d0uEoVW-U5WtOEtZE68D-1603" value="" style="endArrow=none;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="455" y="673" as="sourcePoint" />
@@ -225,6 +236,18 @@
           <mxGeometry x="0.2839" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d0uEoVW-U5WtOEtZE68D-1610" value="Box" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="850" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0uEoVW-U5WtOEtZE68D-1611" value="Driver" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="850" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0uEoVW-U5WtOEtZE68D-1612" value="扣分" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="850" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0uEoVW-U5WtOEtZE68D-1615" value="司机扣分" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="940" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
