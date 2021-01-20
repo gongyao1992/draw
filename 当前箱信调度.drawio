@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T09:44:16.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yYSpkGlE_kIc-QL7AAUv" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T09:54:06.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="VWqVTa8YAnGU_67QZCgM" version="14.1.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="576" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -246,8 +246,8 @@
         <mxCell id="d0uEoVW-U5WtOEtZE68D-1612" value="扣分" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="850" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d0uEoVW-U5WtOEtZE68D-1615" value="司机扣分" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="940" width="50" height="30" as="geometry" />
+        <mxCell id="d0uEoVW-U5WtOEtZE68D-1615" value="司机评分" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="940" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
