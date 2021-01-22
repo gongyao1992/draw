@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T05:46:41.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="i9ANLlluczQXsnvSSUYH" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-22T06:29:26.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="6i3NJamYMTP6iSC7cXb4" version="14.2.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="696" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -248,6 +248,9 @@
         </mxCell>
         <mxCell id="RTN78mNXonh_DTe8gEtp-1" value="调度记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="215" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RTN78mNXonh_DTe8gEtp-2" value="上传箱子坐标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="570" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
