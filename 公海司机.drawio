@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T05:39:44.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="eBp9tqYulK3Rp9XwKzIJ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T05:45:01.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="kEZWWTqrjKBbLY1vw2t2" version="14.2.7" type="github">
   <diagram id="2kbX1E1XRLJPokDe4Fhj" name="第 1 页">
     <mxGraphModel dx="1619" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,44 +98,90 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YYjRhVhqArYzpzuxB-8n-34" value="更新司机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="930" width="90" height="50" as="geometry" />
+          <mxGeometry x="405" y="940" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-35" target="YYjRhVhqArYzpzuxB-8n-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YYjRhVhqArYzpzuxB-8n-35" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="430" y="860" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YYjRhVhqArYzpzuxB-8n-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-36" target="YYjRhVhqArYzpzuxB-8n-38">
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-36" target="YYjRhVhqArYzpzuxB-8n-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-36" target="YYjRhVhqArYzpzuxB-8n-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="1073" />
-              <mxPoint x="660" y="1480" />
+              <mxPoint x="640" y="1073" />
+              <mxPoint x="640" y="1670" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YYjRhVhqArYzpzuxB-8n-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YYjRhVhqArYzpzuxB-8n-39">
-          <mxGeometry x="-0.1712" y="4" relative="1" as="geometry">
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-61" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YYjRhVhqArYzpzuxB-8n-60">
+          <mxGeometry x="0.0346" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YYjRhVhqArYzpzuxB-8n-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-36" target="YYjRhVhqArYzpzuxB-8n-46">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YYjRhVhqArYzpzuxB-8n-36" value="是否更新车辆信息" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="1045" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="YYjRhVhqArYzpzuxB-8n-38" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1460" width="40" height="40" as="geometry" />
+          <mxGeometry x="430" y="1650" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YYjRhVhqArYzpzuxB-8n-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-41" target="YYjRhVhqArYzpzuxB-8n-44">
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-41" target="YYjRhVhqArYzpzuxB-8n-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YYjRhVhqArYzpzuxB-8n-41" value="删除旧车辆的公海关系" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1230" width="120" height="52.5" as="geometry" />
+          <mxGeometry x="260" y="1230" width="120" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="YYjRhVhqArYzpzuxB-8n-44" value="新车的公海关系" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1306.25" width="120" height="60" as="geometry" />
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-44" value="新车旧的公海关系&lt;br&gt;怎么处理？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YYjRhVhqArYzpzuxB-8n-46" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1180" width="80" height="55" as="geometry" />
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-46" target="YYjRhVhqArYzpzuxB-8n-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-51" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YYjRhVhqArYzpzuxB-8n-50">
+          <mxGeometry x="-0.1765" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-46" target="YYjRhVhqArYzpzuxB-8n-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-53" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YYjRhVhqArYzpzuxB-8n-52">
+          <mxGeometry x="-0.1579" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-46" value="是否有旧的车辆" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1150" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-49" target="YYjRhVhqArYzpzuxB-8n-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-57" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YYjRhVhqArYzpzuxB-8n-56">
+          <mxGeometry x="0.1641" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-59" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YYjRhVhqArYzpzuxB-8n-58">
+          <mxGeometry x="0.1237" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-49" value="是否有新的车辆信息" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1310" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-55" target="YYjRhVhqArYzpzuxB-8n-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-55" value="司机的公海关系&lt;br&gt;怎么处理？" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
