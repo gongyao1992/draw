@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T05:26:34.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" version="14.2.7" etag="-QVABUmB8Znor-ZheGqN" type="github"><diagram id="2kbX1E1XRLJPokDe4Fhj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-22T05:31:24.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="dpx_BfZ_oqS-1CoirKyy" version="14.2.7" type="github">
+  <diagram id="2kbX1E1XRLJPokDe4Fhj" name="第 1 页">
+    <mxGraphModel dx="1619" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-1" value="司机&lt;br&gt;Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-2" value="车队&lt;br&gt;Convoy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-3" value="车辆&lt;br&gt;Car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-4" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YYjRhVhqArYzpzuxB-8n-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="200" as="sourcePoint" />
+            <mxPoint x="260" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-5" value="隶属关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YYjRhVhqArYzpzuxB-8n-4">
+          <mxGeometry x="-0.1154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-6" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-3" target="YYjRhVhqArYzpzuxB-8n-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="490" as="sourcePoint" />
+            <mxPoint x="690" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-7" value="隶属关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YYjRhVhqArYzpzuxB-8n-6">
+          <mxGeometry x="-0.1154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-8" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YYjRhVhqArYzpzuxB-8n-1" target="YYjRhVhqArYzpzuxB-8n-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="540" as="sourcePoint" />
+            <mxPoint x="280" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-9" value="关联关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YYjRhVhqArYzpzuxB-8n-8">
+          <mxGeometry x="-0.3539" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYjRhVhqArYzpzuxB-8n-11" value="车队司机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
