@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T05:47:59.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="xCSW14EhOuqNocyErBDJ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T06:33:24.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="Ob0-Rvd8crWsspGNkVwD" version="14.2.7" type="github">
   <diagram id="ru6HBqJ93o1stxbcAgsf" name="第 1 页">
     <mxGraphModel dx="2446" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,10 +104,10 @@
         <mxCell id="qMNki4L_DQQMsOHSVaSi-32" value="每月开始下单客户数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="585" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="qMNki4L_DQQMsOHSVaSi-34" value="集港|放箱&lt;br&gt;车队数量" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-34" value="每月集港|放箱&lt;br&gt;车队数量" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="630" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qMNki4L_DQQMsOHSVaSi-35" value="集港放箱车队&lt;br&gt;&lt;br&gt;每月开始下单的车队数量" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-35" value="集港放箱车队数据&lt;br&gt;&lt;br&gt;包括（最早下单时间、下单总量）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="760" y="620" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qMNki4L_DQQMsOHSVaSi-36" value="集港、放箱&lt;br&gt;每月下单&lt;br&gt;车队" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -148,6 +148,75 @@
         </mxCell>
         <mxCell id="qMNki4L_DQQMsOHSVaSi-49" value="减去&lt;br&gt;特定erp客户的客户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="490" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-52" value="放箱、集港 车队表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1780" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-53" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-52">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-54" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-53">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-55" value="EnterId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-53">
+          <mxGeometry x="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-56" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-52">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-57" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-56">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-58" value="min_create_order  最早下单时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-56">
+          <mxGeometry x="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-59" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-52">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-60" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-59">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-61" value="count 下单数量" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-59">
+          <mxGeometry x="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-62" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-52">
+          <mxGeometry y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-63" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-62">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-64" value="status 当前状态" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-62">
+          <mxGeometry x="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-78" value="每月下单车队数" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1970" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-79" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-78">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-80" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-79">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-81" value="month_int 月份" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-79">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-82" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-78">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-83" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-82">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-84" value="下单客户数" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-82">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-85" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-78">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-86" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-85">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-87" value="具体下单客户的id数组" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="qMNki4L_DQQMsOHSVaSi-85">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
