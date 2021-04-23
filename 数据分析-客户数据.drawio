@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T04:12:23.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="iR0mhkB-rSJNaioVq4dQ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T05:33:02.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="UTnOSbKrN-UfA09jbgdr" version="14.2.7" type="github">
   <diagram id="ru6HBqJ93o1stxbcAgsf" name="第 1 页">
     <mxGraphModel dx="2446" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="620" width="630" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="qMNki4L_DQQMsOHSVaSi-1" value="客户数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="90" width="90" height="50" as="geometry" />
         </mxCell>
@@ -40,8 +43,8 @@
         <mxCell id="qMNki4L_DQQMsOHSVaSi-10" value="Erp客户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qMNki4L_DQQMsOHSVaSi-14" value="count&lt;br&gt;huoyue_arr" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="185" width="120" height="60" as="geometry" />
+        <mxCell id="qMNki4L_DQQMsOHSVaSi-14" value="count 客户总数&lt;br&gt;huoyue_arr 复购率的数" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="185" width="185" height="65" as="geometry" />
         </mxCell>
         <mxCell id="qMNki4L_DQQMsOHSVaSi-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMNki4L_DQQMsOHSVaSi-16" target="qMNki4L_DQQMsOHSVaSi-17">
           <mxGeometry relative="1" as="geometry" />
@@ -85,9 +88,6 @@
         </mxCell>
         <mxCell id="qMNki4L_DQQMsOHSVaSi-27" value="每月下单客户数" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qMNki4L_DQQMsOHSVaSi-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="620" width="630" height="330" as="geometry" />
         </mxCell>
         <mxCell id="qMNki4L_DQQMsOHSVaSi-30" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
