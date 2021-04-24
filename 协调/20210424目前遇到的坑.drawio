@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T11:40:16.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="UQi503KiM6yHY50XkOy-" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T11:56:07.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="tEngYNnjSfgb99dU-0jR" version="14.6.6" type="github">
   <diagram id="eAi8zJwuuo-bABCW_Yco" name="第 1 页">
     <mxGraphModel dx="1717" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,20 +21,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-2" target="UOCio54_dr0btCB2Ho9Q-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UOCio54_dr0btCB2Ho9Q-2" value="产品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UOCio54_dr0btCB2Ho9Q-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-4" target="UOCio54_dr0btCB2Ho9Q-13">
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-4" target="UOCio54_dr0btCB2Ho9Q-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOCio54_dr0btCB2Ho9Q-4" value="后端" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="467" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.842;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-6" target="UOCio54_dr0btCB2Ho9Q-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UOCio54_dr0btCB2Ho9Q-6" value="前端" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="467" width="120" height="60" as="geometry" />
+          <mxGeometry x="384" y="467" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.608;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-9" target="UOCio54_dr0btCB2Ho9Q-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UOCio54_dr0btCB2Ho9Q-9" value="测试" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="467" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="467" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UOCio54_dr0btCB2Ho9Q-10" value="" style="endArrow=none;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,8 +59,11 @@
         <mxCell id="UOCio54_dr0btCB2Ho9Q-12" value="具有普遍性的需求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="350" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UOCio54_dr0btCB2Ho9Q-13" value="1.本业务线上理解需求。what why how&lt;br&gt;2. 对着实体关系图整理需要哪些接口&lt;br&gt;3.任务分工，以及内部协调。进行排期" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="585" width="240" height="83" as="geometry" />
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-13" target="UOCio54_dr0btCB2Ho9Q-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-13" value="需求评审&lt;br&gt;&lt;br&gt;1.&lt;b&gt;本业务线&lt;/b&gt;上理解需求。（涉及到哪些人？）what why how&lt;br&gt;2. 对着实体关系图整理需要哪些接口&lt;br&gt;3.任务分工，以及内部协调。进行排期，同步给产品" style="whiteSpace=wrap;html=1;align=left;fillColor=#e3c800;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="585" width="240" height="135" as="geometry" />
         </mxCell>
         <mxCell id="UOCio54_dr0btCB2Ho9Q-15" value="流程图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="325" width="80" height="40" as="geometry" />
@@ -64,6 +76,75 @@
         </mxCell>
         <mxCell id="UOCio54_dr0btCB2Ho9Q-19" value="具体的需求，能点击的原型图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="420" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-21" target="UOCio54_dr0btCB2Ho9Q-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-21" value="出&lt;span style=&quot;color: rgba(13 , 27 , 62 , 0.65) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; , sans-serif ; font-size: 13px ; font-weight: 700 ; background-color: rgb(255 , 255 , 255)&quot;&gt;Mock&lt;/span&gt;接口文档&lt;br&gt;出Controller&lt;br&gt;主 结构，字段不重要" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-24" target="UOCio54_dr0btCB2Ho9Q-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-24" value="和前端对接口&lt;br&gt;如果需要的话，可以给产品反讲" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="950" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-27" target="UOCio54_dr0btCB2Ho9Q-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOCio54_dr0btCB2Ho9Q-30">
+          <mxGeometry x="-0.04" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-27" target="UOCio54_dr0btCB2Ho9Q-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOCio54_dr0btCB2Ho9Q-32">
+          <mxGeometry x="0.096" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-27" value="是否达成一致？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1065" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-29" target="UOCio54_dr0btCB2Ho9Q-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-29" value="后端开发&lt;br&gt;&lt;font size=&quot;1&quot;&gt;1. 自我纵向开发&lt;br&gt;2. 横向协调&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-34" target="UOCio54_dr0btCB2Ho9Q-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-34" value="联调" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-35" target="UOCio54_dr0btCB2Ho9Q-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-35" value="内部自测&lt;br&gt;（前后端均已开发完成）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1510" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-38" target="UOCio54_dr0btCB2Ho9Q-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-38" value="交给产品测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-41" value="正常需求，前后端一致开发初步流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UOCio54_dr0btCB2Ho9Q-42" target="UOCio54_dr0btCB2Ho9Q-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-42" value="上线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1790" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UOCio54_dr0btCB2Ho9Q-44" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1900" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
