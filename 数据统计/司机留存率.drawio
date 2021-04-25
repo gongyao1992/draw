@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T06:19:40.383Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="GaFmIK1kfi0PxpDIAVLn" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T06:23:40.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="oJDf3NqW02z-izCkMi-X" version="14.6.6" type="github">
   <diagram id="LqfB9y1q7tUIyyMH-9oH" name="第 1 页">
     <mxGraphModel dx="1437" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="3om4H7ewQT04mksPTmhT-12" value="ship_ticket_time 船期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="355" width="160" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="3om4H7ewQT04mksPTmhT-13" value="stat_driver (司机统计信息)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="3om4H7ewQT04mksPTmhT-13" value="stat_driver (司机统计信息)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="130" y="568" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="3om4H7ewQT04mksPTmhT-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3om4H7ewQT04mksPTmhT-13">
@@ -91,7 +91,7 @@
         <mxCell id="3om4H7ewQT04mksPTmhT-60" value="driver_id  司机id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="3om4H7ewQT04mksPTmhT-58">
           <mxGeometry x="30" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3om4H7ewQT04mksPTmhT-27" value="stat_month_driver (每月活跃司机)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="3om4H7ewQT04mksPTmhT-27" value="stat_month_driver (每月活跃司机)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#0e8088;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="568" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3om4H7ewQT04mksPTmhT-28" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3om4H7ewQT04mksPTmhT-27">
@@ -171,7 +171,7 @@
         <mxCell id="3om4H7ewQT04mksPTmhT-54" value="price  金额" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="3om4H7ewQT04mksPTmhT-52">
           <mxGeometry x="30" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3om4H7ewQT04mksPTmhT-64" value="stat_zhongtai_financial_item_to_summary 有个现成的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3om4H7ewQT04mksPTmhT-64" value="stat_zhongtai_financial_item_to_summary 有个现成的" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="400" y="798" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3om4H7ewQT04mksPTmhT-66" value="暂不考虑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
