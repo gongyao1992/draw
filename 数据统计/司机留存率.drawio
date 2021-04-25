@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T05:50:34.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" version="14.6.6" etag="ZaWklesd2RhdflqhEfdo" type="github"><diagram id="LqfB9y1q7tUIyyMH-9oH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-25T05:59:20.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="4XpDzb5KFedgGiZ6Gmb0" version="14.6.6" type="github">
+  <diagram id="LqfB9y1q7tUIyyMH-9oH" name="第 1 页">
+    <mxGraphModel dx="1437" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3om4H7ewQT04mksPTmhT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3om4H7ewQT04mksPTmhT-1" target="3om4H7ewQT04mksPTmhT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3om4H7ewQT04mksPTmhT-1" target="3om4H7ewQT04mksPTmhT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-1" value="Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-2" value="Box&lt;br&gt;中台箱子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3om4H7ewQT04mksPTmhT-3" target="3om4H7ewQT04mksPTmhT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-3" value="Assign" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3om4H7ewQT04mksPTmhT-4" target="3om4H7ewQT04mksPTmhT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-4" value="CargocvgeAssign" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-5" value="CargocvgeBox&lt;br&gt;集港箱子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-10" value="id 司机唯一标识&lt;br&gt;create_time 创建时间(每月司机的创建数量)&lt;br&gt;min_jiedan_time 最早接单时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="300" width="189" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-11" value="min_product_time 最早产装时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="210" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3om4H7ewQT04mksPTmhT-12" value="ship_ticket_time 船期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="355" width="160" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
