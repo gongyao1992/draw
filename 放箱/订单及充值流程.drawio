@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T03:30:09.743Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="uTuuN6sUGIA4PSWpuZIm" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-30T03:31:44.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="E00ksSHXFC9UtDXR3ln3" version="14.6.6" type="github">
   <diagram id="yB_TVjthiijMV85t6qQj" name="第 1 页">
     <mxGraphModel dx="1437" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="iHlx-0HnK2ta-YtyEYJR-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iHlx-0HnK2ta-YtyEYJR-22" target="iHlx-0HnK2ta-YtyEYJR-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHlx-0HnK2ta-YtyEYJR-22" value="下单、扣除余额；添加记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iHlx-0HnK2ta-YtyEYJR-22" value="下单、扣除余额；添加记录" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHlx-0HnK2ta-YtyEYJR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHlx-0HnK2ta-YtyEYJR-25" target="iHlx-0HnK2ta-YtyEYJR-15">
@@ -126,7 +126,7 @@
         <mxCell id="iHlx-0HnK2ta-YtyEYJR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iHlx-0HnK2ta-YtyEYJR-34" target="iHlx-0HnK2ta-YtyEYJR-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHlx-0HnK2ta-YtyEYJR-34" value="下单、扣除余额" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iHlx-0HnK2ta-YtyEYJR-34" value="下单、扣除余额" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHlx-0HnK2ta-YtyEYJR-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iHlx-0HnK2ta-YtyEYJR-36" target="iHlx-0HnK2ta-YtyEYJR-38">
@@ -178,6 +178,15 @@
         </mxCell>
         <mxCell id="iHlx-0HnK2ta-YtyEYJR-53" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="940" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHlx-0HnK2ta-YtyEYJR-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iHlx-0HnK2ta-YtyEYJR-57" target="iHlx-0HnK2ta-YtyEYJR-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHlx-0HnK2ta-YtyEYJR-57" value="修改信用额度总额、以及可用余额" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHlx-0HnK2ta-YtyEYJR-58" value="信用额度修改目标值 是否 小于已用余额" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="660" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
