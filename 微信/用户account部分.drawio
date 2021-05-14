@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T07:41:28.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.12" etag="GPWly0dMEcrWSdDgcuEE" type="github"><diagram id="5_xtxLFRPzjfNYSvN6iG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-14T07:44:12.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="E48mKpwDL-BcfGvYoa7k" version="14.6.12" type="github">
+  <diagram id="5_xtxLFRPzjfNYSvN6iG" name="第 1 页">
+    <mxGraphModel dx="1733" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fB8WfaECMyC0tHNyJRD0-2" value="wx_token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fB8WfaECMyC0tHNyJRD0-3" value="微信用户在某一个具体小程序的标识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="250" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
