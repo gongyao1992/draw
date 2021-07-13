@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T06:53:55.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="NYoA9GjedLp9rI3Cm_Ea" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T06:54:43.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="aoGu8OKNKy_MfatO2InF" version="14.8.4" type="github">
   <diagram id="bjVNJmv654BV9-0lnCwO" name="第 1 页">
     <mxGraphModel dx="1142" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,6 +254,15 @@
         </mxCell>
         <mxCell id="Oo7feSFM17fFjLkw8vc8-91" value="同步&lt;b&gt;未关账&lt;/b&gt;的费用数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1036" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-93" value="financial_item" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-94" value="cargocvge_fee_from" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="740" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-95" value="cargocvge_fee_to" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="781" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
