@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T06:59:37.160Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="iyBiFhl2XC1NY15Z3GQL" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T07:01:25.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="xYjmPgyuuoVxsJ0nVkHr" version="14.8.4" type="github">
   <diagram id="bjVNJmv654BV9-0lnCwO" name="第 1 页">
     <mxGraphModel dx="1142" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,6 +368,9 @@
         <mxCell id="Oo7feSFM17fFjLkw8vc8-128" value="同步至 Go系统，进行关账操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1036" y="970" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Oo7feSFM17fFjLkw8vc8-130" target="Oo7feSFM17fFjLkw8vc8-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Oo7feSFM17fFjLkw8vc8-130" value="修改 订单+费用的关账状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1036" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -388,6 +391,18 @@
         </mxCell>
         <mxCell id="Oo7feSFM17fFjLkw8vc8-178" value="cargocvge_fee_to" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="1230" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-179" value="is_close_fee （为什么添加这个字段？主要是为了搜索哪些费用未关账）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1100" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Oo7feSFM17fFjLkw8vc8-180" target="Oo7feSFM17fFjLkw8vc8-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-180" value="删除缓冲+关账中状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-182" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1069" y="1330" width="54" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
