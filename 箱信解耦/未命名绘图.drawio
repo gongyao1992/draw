@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T06:55:54.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Qnt-zRPXlTwvirz2K_4c" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T06:59:37.160Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="iyBiFhl2XC1NY15Z3GQL" version="14.8.4" type="github">
   <diagram id="bjVNJmv654BV9-0lnCwO" name="第 1 页">
     <mxGraphModel dx="1142" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -356,8 +356,38 @@
         <mxCell id="Oo7feSFM17fFjLkw8vc8-125" value="KEY `idx_order_id` (`order_id`)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="Oo7feSFM17fFjLkw8vc8-123">
           <mxGeometry x="30" width="560" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Oo7feSFM17fFjLkw8vc8-126" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Oo7feSFM17fFjLkw8vc8-126" target="Oo7feSFM17fFjLkw8vc8-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-126" value="获取需要关账的订单+费用数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Oo7feSFM17fFjLkw8vc8-128" target="Oo7feSFM17fFjLkw8vc8-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-128" value="同步至 Go系统，进行关账操作" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-130" value="修改 订单+费用的关账状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-134" value="order_freight" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-135" value="order_ext_dockserve" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1050" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-136" value="cargocvge_order" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-176" value="financial_item" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1150" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-177" value="cargocvge_fee_from" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1190" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oo7feSFM17fFjLkw8vc8-178" value="cargocvge_fee_to" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1230" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
