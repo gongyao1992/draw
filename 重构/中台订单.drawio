@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T07:31:39.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ZRk-AR18JoEwTBpgD9yE" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T07:32:21.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="fcm6uCpOI836jF37mx91" version="14.8.6" type="github">
   <diagram id="ZhsU1zgDL8hh9CDmfww4" name="第 1 页">
     <mxGraphModel dx="1142" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,9 +119,9 @@
         <mxCell id="KZRwbZ328IwgJRKjHK97-34" value="Order" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCCCC;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="920" y="450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KZRwbZ328IwgJRKjHK97-35" value="`order_freight`" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1000" y="455" width="120" height="30" as="geometry">
-            <mxRectangle x="1000" y="455" width="880" height="2420" as="alternateBounds" />
+        <mxCell id="KZRwbZ328IwgJRKjHK97-35" value="`order_freight`" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="455" width="880" height="2420" as="geometry">
+            <mxRectangle x="1000" y="455" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZRwbZ328IwgJRKjHK97-36" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-35">
@@ -835,12 +835,15 @@
         <mxCell id="KZRwbZ328IwgJRKjHK97-272" value="`is_close_fee` tinyint(2) DEFAULT &#39;0&#39; COMMENT &#39;是否关账（0未关账|1已关账)&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-270">
           <mxGeometry x="30" width="850" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KZRwbZ328IwgJRKjHK97-273" value="Box" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#66B2FF;" vertex="1" parent="1">
-          <mxGeometry x="920" y="565" width="80" height="40" as="geometry" />
+        <mxCell id="KZRwbZ328IwgJRKjHK97-578" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1958" y="450" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KZRwbZ328IwgJRKjHK97-274" value="`order_freight_box`" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1000" y="570" width="140" height="30" as="geometry">
-            <mxRectangle x="900" y="-730" width="940" height="3070" as="alternateBounds" />
+        <mxCell id="KZRwbZ328IwgJRKjHK97-273" value="Box" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#66B2FF;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-578">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KZRwbZ328IwgJRKjHK97-274" value="`order_freight_box`" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" collapsed="1" parent="KZRwbZ328IwgJRKjHK97-578">
+          <mxGeometry x="80" y="5" width="140" height="30" as="geometry">
+            <mxRectangle x="1000" y="570" width="940" height="3070" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZRwbZ328IwgJRKjHK97-275" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-274">
