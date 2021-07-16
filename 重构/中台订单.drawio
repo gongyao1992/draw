@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T05:25:43.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-zCxv8HYBsZyIAjSRymN" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-16T05:27:01.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Yd5TV6Rb2XbQsuzgyF5e" version="14.8.6" type="github">
   <diagram id="ZhsU1zgDL8hh9CDmfww4" name="第 1 页">
     <mxGraphModel dx="1142" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1041,7 +1041,7 @@
         <mxCell id="KZRwbZ328IwgJRKjHK97-339" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-338">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KZRwbZ328IwgJRKjHK97-340" value="`box_pcs` varchar(25) NOT NULL DEFAULT &#39;0&#39; COMMENT &#39;件数&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-338">
+        <mxCell id="KZRwbZ328IwgJRKjHK97-340" value="`box_pcs` varchar(25) NOT NULL DEFAULT &#39;0&#39; COMMENT &#39;件数&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" vertex="1" parent="KZRwbZ328IwgJRKjHK97-338">
           <mxGeometry x="30" width="910" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KZRwbZ328IwgJRKjHK97-341" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-274">
@@ -1050,7 +1050,7 @@
         <mxCell id="KZRwbZ328IwgJRKjHK97-342" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-341">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KZRwbZ328IwgJRKjHK97-343" value="`box_foot` varchar(25) DEFAULT &#39;0&#39; COMMENT &#39;尺&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-341">
+        <mxCell id="KZRwbZ328IwgJRKjHK97-343" value="`box_foot` varchar(25) DEFAULT &#39;0&#39; COMMENT &#39;尺&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" vertex="1" parent="KZRwbZ328IwgJRKjHK97-341">
           <mxGeometry x="30" width="910" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KZRwbZ328IwgJRKjHK97-344" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-274">
@@ -1176,7 +1176,7 @@
         <mxCell id="KZRwbZ328IwgJRKjHK97-384" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-383">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KZRwbZ328IwgJRKjHK97-385" value="`ordertransfer_status` tinyint(1) unsigned NOT NULL DEFAULT &#39;0&#39; COMMENT &#39;换单状态 0待处理 1待确认 2待确认已录入  9待扫描 10 已完成&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-383">
+        <mxCell id="KZRwbZ328IwgJRKjHK97-385" value="`ordertransfer_status` tinyint(1) unsigned NOT NULL DEFAULT &#39;0&#39; COMMENT &#39;换单状态 0待处理 1待确认 2待确认已录入  9待扫描 10 已完成&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" vertex="1" parent="KZRwbZ328IwgJRKjHK97-383">
           <mxGeometry x="30" width="910" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KZRwbZ328IwgJRKjHK97-386" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-274">
@@ -1185,7 +1185,7 @@
         <mxCell id="KZRwbZ328IwgJRKjHK97-387" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-386">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KZRwbZ328IwgJRKjHK97-388" value="`ordertransfer_code` char(11) DEFAULT NULL COMMENT &#39;换单编码 年月日-数字[160807][0~9999]&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-386">
+        <mxCell id="KZRwbZ328IwgJRKjHK97-388" value="`ordertransfer_code` char(11) DEFAULT NULL COMMENT &#39;换单编码 年月日-数字[160807][0~9999]&#39;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" vertex="1" parent="KZRwbZ328IwgJRKjHK97-386">
           <mxGeometry x="30" width="910" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KZRwbZ328IwgJRKjHK97-389" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="KZRwbZ328IwgJRKjHK97-274">
