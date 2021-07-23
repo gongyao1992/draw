@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T08:39:57.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" version="14.8.6" etag="Ak3lwHLPVIEAI86u_-WU" type="github"><diagram id="p6EXZn2dfl58WSxxSQBU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-23T08:44:08.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="5BVY6JSESFmk21iHxHy5" version="14.8.6" type="github">
+  <diagram id="p6EXZn2dfl58WSxxSQBU" name="第 1 页">
+    <mxGraphModel dx="1362" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-1" target="gJI-kXEuVbk1BfwO42Kd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-2" target="gJI-kXEuVbk1BfwO42Kd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-2" value="手机号注册" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-4" target="gJI-kXEuVbk1BfwO42Kd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-8" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gJI-kXEuVbk1BfwO42Kd-7">
+          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-11" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gJI-kXEuVbk1BfwO42Kd-10">
+          <mxGeometry x="-0.4" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-4" value="邀请码有无？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="335" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-6" target="gJI-kXEuVbk1BfwO42Kd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-6" value="旧的注册流程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-12" target="gJI-kXEuVbk1BfwO42Kd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gJI-kXEuVbk1BfwO42Kd-15">
+          <mxGeometry x="-0.4619" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-12" target="gJI-kXEuVbk1BfwO42Kd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-12" value="邀请码是否正确？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="335" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-13" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="770" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-17" target="gJI-kXEuVbk1BfwO42Kd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-17" value="旧的注册流程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-19" target="gJI-kXEuVbk1BfwO42Kd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-19" value="保存邀请码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
