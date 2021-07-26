@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T05:32:02.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="gdpX5ASuwe0b3-D_nQnK" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T05:34:26.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="lnZbxFiQfwpwZMRzlvjl" version="14.8.6" type="github">
   <diagram id="p6EXZn2dfl58WSxxSQBU" name="第 1 页">
     <mxGraphModel dx="1362" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gJI-kXEuVbk1BfwO42Kd-40" value="生成自己的邀请码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="275" y="565" width="120" height="40" as="geometry" />
+          <mxGeometry x="275" y="612.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gJI-kXEuVbk1BfwO42Kd-43" value="司机来源渠道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="610" y="265" width="80" height="45" as="geometry" />
@@ -186,7 +186,13 @@
           <mxGeometry x="620" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gJI-kXEuVbk1BfwO42Kd-58" value="发放注册卡券信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="275" y="606.25" width="120" height="40" as="geometry" />
+          <mxGeometry x="275" y="653.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-59" value="确定&lt;br&gt;初始化司机类型&lt;br&gt;+ 司机来源渠道" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="275" y="566.25" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-60" value="邀请码的逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="667.75" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
