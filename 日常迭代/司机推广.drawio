@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T05:28:08.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="_E8NV_B22ingcitA_qFZ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T05:29:10.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="vsoFefPCM-nbM-0grBTo" version="14.8.6" type="github">
   <diagram id="p6EXZn2dfl58WSxxSQBU" name="第 1 页">
     <mxGraphModel dx="1362" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,10 +125,14 @@
         <mxCell id="gJI-kXEuVbk1BfwO42Kd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-38" target="gJI-kXEuVbk1BfwO42Kd-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="679" y="630" />
+              <mxPoint x="680" y="630" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gJI-kXEuVbk1BfwO42Kd-38" value="生成自己的邀请码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="619.5" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gJI-kXEuVbk1BfwO42Kd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-40" target="gJI-kXEuVbk1BfwO42Kd-13">
           <mxGeometry relative="1" as="geometry" />
@@ -177,6 +181,9 @@
         </mxCell>
         <mxCell id="gJI-kXEuVbk1BfwO42Kd-55" value="发放注册卡券信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="620" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-57" value="确定&lt;br&gt;初始化司机类型" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="618.5" y="520" width="123" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
