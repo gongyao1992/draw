@@ -1,201 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T06:21:55.107Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="pgFoTnZ1j0n4okR3XTeM" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T02:27:27.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="7ZZ2r85LaBmUnICNnKiJ" version="14.9.2" type="github">
   <diagram id="p6EXZn2dfl58WSxxSQBU" name="第 1 页">
     <mxGraphModel dx="1362" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="37.5" width="520" height="802.5" as="geometry" />
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-1" target="gJI-kXEuVbk1BfwO42Kd-2">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-1" target="gJI-kXEuVbk1BfwO42Kd-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="80" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-2" target="gJI-kXEuVbk1BfwO42Kd-4">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-2" target="gJI-kXEuVbk1BfwO42Kd-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-2" value="手机号注册" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-2" value="手机号注册" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="205" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-4" target="gJI-kXEuVbk1BfwO42Kd-6">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-4" target="gJI-kXEuVbk1BfwO42Kd-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-8" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gJI-kXEuVbk1BfwO42Kd-7">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-8" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gJI-kXEuVbk1BfwO42Kd-7" vertex="1" connectable="0">
           <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-4">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-11" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gJI-kXEuVbk1BfwO42Kd-10">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-11" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gJI-kXEuVbk1BfwO42Kd-10" vertex="1" connectable="0">
           <mxGeometry x="-0.4" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-4" value="邀请码有无？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-4" value="邀请码有无？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="335" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-6" value="旧的注册流程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-6" value="旧的注册流程" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="505" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-12" target="gJI-kXEuVbk1BfwO42Kd-13">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-12" target="gJI-kXEuVbk1BfwO42Kd-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gJI-kXEuVbk1BfwO42Kd-15">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gJI-kXEuVbk1BfwO42Kd-15" vertex="1" connectable="0">
           <mxGeometry x="-0.4619" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-12" target="gJI-kXEuVbk1BfwO42Kd-17">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-12" target="gJI-kXEuVbk1BfwO42Kd-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-53" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gJI-kXEuVbk1BfwO42Kd-18">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-53" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gJI-kXEuVbk1BfwO42Kd-18" vertex="1" connectable="0">
           <mxGeometry x="-0.4791" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-12" value="邀请码是否正确？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-12" value="邀请码是否正确？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="470" y="335" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-13" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-13" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="770" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-17" value="旧的注册流程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-17" value="旧的注册流程" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="506.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-55" target="gJI-kXEuVbk1BfwO42Kd-13">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-43" target="gJI-kXEuVbk1BfwO42Kd-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-22" value="手机号&lt;br&gt;注册流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-22" value="手机号&lt;br&gt;注册流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="90" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-23" target="gJI-kXEuVbk1BfwO42Kd-26">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-23" target="gJI-kXEuVbk1BfwO42Kd-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-23" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-23" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="90" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-24" value="上传身份信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="140" width="110" height="30" as="geometry" />
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-24" value="司机确认加入类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="95" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-26" target="gJI-kXEuVbk1BfwO42Kd-28">
+        <mxCell id="JhTld3Q9pQPOCr_IRsFG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-26" target="JhTld3Q9pQPOCr_IRsFG-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-26" value="司机补全信息&lt;br&gt;（多港口信息）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="215" width="120" height="60" as="geometry" />
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-26" value="确定司机加入类型" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="205" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-28" target="gJI-kXEuVbk1BfwO42Kd-30">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-30" target="gJI-kXEuVbk1BfwO42Kd-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-28" value="根据加入类型&lt;br&gt;确定&lt;br&gt;初始化司机类型" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="355" width="120" height="60" as="geometry" />
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-30" value="旧的逻辑" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="607.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-30" target="gJI-kXEuVbk1BfwO42Kd-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-30" value="旧的逻辑" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-32" value="邀请信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="470" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-33" value="发放注册卡券信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="510" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-34" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-34" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1277.5" y="740" width="55" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-36" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gJI-kXEuVbk1BfwO42Kd-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="490" as="sourcePoint" />
-            <mxPoint x="1370" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-37" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="534" as="sourcePoint" />
-            <mxPoint x="1400" y="534" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-38" target="gJI-kXEuVbk1BfwO42Kd-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="679" y="630" />
-              <mxPoint x="680" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-38" value="生成自己的邀请码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-38" value="生成自己的邀请码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="620" y="566.25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-58" target="gJI-kXEuVbk1BfwO42Kd-13">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-40" target="gJI-kXEuVbk1BfwO42Kd-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-40" value="生成自己的邀请码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="275" y="612.5" width="120" height="40" as="geometry" />
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-40" value="生成自己的邀请码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="275" y="566.25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-43" value="司机来源渠道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="610" y="265" width="80" height="45" as="geometry" />
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-43" value="根据邀请码类型确定&lt;br&gt;司机来源渠道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
+          <mxGeometry x="620" y="606.25" width="120" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-44" target="gJI-kXEuVbk1BfwO42Kd-45">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-44" target="gJI-kXEuVbk1BfwO42Kd-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-44" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-44" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1880" y="95" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-45" target="gJI-kXEuVbk1BfwO42Kd-47">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gJI-kXEuVbk1BfwO42Kd-45" target="gJI-kXEuVbk1BfwO42Kd-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-45" value="认证" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-45" value="认证" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1855" y="205" width="90" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-47" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-47" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1875" y="560" width="50" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-49" value="认证活动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-49" value="认证活动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2000" y="355" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-50" value="邀请码 给邀请人发红包" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-50" value="邀请码 给邀请人发红包" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2000" y="395" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-51" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-51" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1900" y="374.5" as="sourcePoint" />
             <mxPoint x="2000" y="374.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-52" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-52" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1900" y="414" as="sourcePoint" />
             <mxPoint x="2000" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-54" value="邀请信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="660" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-55" value="发放注册卡券信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="620" y="700" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-57" value="确定&lt;br&gt;初始化司机类型&lt;br&gt;+ 司机来源渠道" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="620" y="520" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-58" value="发放注册卡券信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="275" y="653.75" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-59" value="确定&lt;br&gt;初始化司机类型&lt;br&gt;+ 司机来源渠道" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="275" y="566.25" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-60" value="邀请码的逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-60" value="邀请码的逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="667.75" width="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gJI-kXEuVbk1BfwO42Kd-61" value="确定司机加入类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="800" y="510" width="80" height="45" as="geometry" />
+        <mxCell id="JhTld3Q9pQPOCr_IRsFG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JhTld3Q9pQPOCr_IRsFG-3" target="JhTld3Q9pQPOCr_IRsFG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JhTld3Q9pQPOCr_IRsFG-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JhTld3Q9pQPOCr_IRsFG-6">
+          <mxGeometry x="-0.1667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JhTld3Q9pQPOCr_IRsFG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JhTld3Q9pQPOCr_IRsFG-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1485" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JhTld3Q9pQPOCr_IRsFG-11" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JhTld3Q9pQPOCr_IRsFG-10">
+          <mxGeometry x="-0.0667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JhTld3Q9pQPOCr_IRsFG-3" value="是车队司机？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JhTld3Q9pQPOCr_IRsFG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JhTld3Q9pQPOCr_IRsFG-5" target="gJI-kXEuVbk1BfwO42Kd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JhTld3Q9pQPOCr_IRsFG-5" value="修改司机类型为车队司机" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-54" value="邀请信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="445" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JhTld3Q9pQPOCr_IRsFG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gJI-kXEuVbk1BfwO42Kd-55" target="gJI-kXEuVbk1BfwO42Kd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-55" value="发放注册卡券信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="485" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gJI-kXEuVbk1BfwO42Kd-57" value="确定&lt;br&gt;司机类型" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="395" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
