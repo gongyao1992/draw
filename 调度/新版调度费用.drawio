@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T02:32:38.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="YODDjmqklw302irHPWEz" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T02:36:28.937Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="x1PMiKx0GfznH_rNTPQs" version="15.2.1" type="github">
   <diagram id="6YA5LQFUYau8LGqxRG-R" name="第 1 页">
     <mxGraphModel dx="1481" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,15 @@
         </mxCell>
         <mxCell id="dJ32fe9MCPp1KMu2VFIl-20" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-21" value="1，2&lt;br&gt;确认【箱子】与 【结算单位】关系（不管是好还是坏），则对1，2费用修改。&lt;br&gt;具体：1 是创建与删除；2是结算单位是不是0的问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-22" value="2，3&lt;br&gt;仅仅是张【整段】会操作，2是结算单位、3是费用本身" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="342.5" width="260" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-23" value="3，4&lt;br&gt;【调度订单完成】才会触发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="422.5" width="260" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
