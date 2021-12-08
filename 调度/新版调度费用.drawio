@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T02:24:52.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="15.2.1" etag="jp0k3ftBHUwX3PktcQzD" type="github"><diagram id="6YA5LQFUYau8LGqxRG-R">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-08T02:32:38.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="YODDjmqklw302irHPWEz" version="15.2.1" type="github">
+  <diagram id="6YA5LQFUYau8LGqxRG-R" name="第 1 页">
+    <mxGraphModel dx="1481" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-6" value="标签费用（box_remark_tpl）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-9" value="卡券费用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="430" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-7" value="太平洋提落箱费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dJ32fe9MCPp1KMu2VFIl-11">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-8" value="外落费用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dJ32fe9MCPp1KMu2VFIl-11">
+          <mxGeometry x="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="160" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-1" value="调度费用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dJ32fe9MCPp1KMu2VFIl-12">
+          <mxGeometry y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-2" value="运输费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dJ32fe9MCPp1KMu2VFIl-12">
+          <mxGeometry x="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-3" value="追加运输费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dJ32fe9MCPp1KMu2VFIl-12">
+          <mxGeometry x="120" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-4" value="调度追加运输费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dJ32fe9MCPp1KMu2VFIl-12">
+          <mxGeometry x="120" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-5" value="困难作业费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dJ32fe9MCPp1KMu2VFIl-12">
+          <mxGeometry x="120" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="dJ32fe9MCPp1KMu2VFIl-12">
+          <mxGeometry x="80" y="10" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="330" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="412.5" width="260" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-17" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-18" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-19" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="412.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ32fe9MCPp1KMu2VFIl-20" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
